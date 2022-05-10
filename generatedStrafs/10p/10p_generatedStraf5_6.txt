@@ -1,0 +1,14 @@
+arg(x1).
+arg(x2).
+arg(x3).
+arg(x4).
+arg(x5).
+
+att(x3,x4).
+att(x5,x2).
+
+str(x1,11).
+str(x2,5).
+str(x3,19).
+str(x4,7).
+str(x5,7).
